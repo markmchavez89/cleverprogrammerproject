@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.red-box {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
